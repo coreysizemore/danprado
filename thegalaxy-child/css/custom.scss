@@ -108,9 +108,9 @@ a#mobileopen {
 header {
 	
 	&#header_home {
-		background: url('../img/home.jpg') no-repeat;
-		background-size: 110%;
-		background-attachment: fixed;	
+		background: url('../img/home_2.jpg') no-repeat;
+		background-size: 100%;
+		background-attachment: fixed;
 	}
 	
 	&#header_page {
@@ -541,15 +541,15 @@ footer {
 	
 	header {
 		&#header_home_mobile {
-			background: url('../img/home.jpg') no-repeat;
+			background: url('../img/home_2.jpg') no-repeat;
 			background-size: 150%;
-			background-attachment: fixed;	
+			background-attachment: scroll;
 		}
 		
 		&#header_page_mobile {
 			background: url('../img/page.jpg') no-repeat;
 			background-size: 100%;
-			background-attachment: fixed;	
+			background-attachment: scroll;	
 		}
 	}
 	
@@ -563,15 +563,15 @@ footer {
 	
 	header {
 		&#header_home_mobile {
-			background: url('../img/home_mobile.jpg') no-repeat;
+			background: url('../img/home_2_mobile.jpg') no-repeat;
 			background-size: 100%;
-			background-attachment: fixed;	
+			background-attachment: scroll;	
 		}
 		
 		&#header_page_mobile {
 			background: url('../img/page_mobile.jpg') no-repeat;
 			background-size: 100%;
-			background-attachment: fixed;	
+			background-attachment: scroll;	
 		}
 	}
 	
@@ -592,15 +592,15 @@ footer {
 	
 	header {
 		&#header_home_mobile {
-			background: url('../img/home_mobile.jpg') no-repeat;
+			background: url('../img/home_2_mobile.jpg') no-repeat;
 			background-size: 100%;
-			background-attachment: fixed;	
+			background-attachment: scroll;	
 		}
 		
 		&#header_page_mobile {
 			background: url('../img/page_mobile.jpg') no-repeat;
 			background-size: 100%;
-			background-attachment: fixed;	
+			background-attachment: scroll;	
 		}
 	}
 	
@@ -621,15 +621,15 @@ footer {
 	
 	header {
 		&#header_home_mobile {
-			background: url('../img/home_mobile.jpg') no-repeat;
+			background: url('../img/home_2_mobile.jpg') no-repeat;
 			background-size: 100%;
-			background-attachment: fixed;	
+			background-attachment: scroll;	
 		}
 		
 		&#header_page_mobile {
 			background: url('../img/page_mobile.jpg') no-repeat;
 			background-size: 100%;
-			background-attachment: fixed;	
+			background-attachment: scroll;	
 		}
 	}
 	
